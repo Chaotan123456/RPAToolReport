@@ -1,0 +1,7 @@
+C:\Users\chao.tan\source\repos\RPAToolReport\RPAToolReport\bin\Debug\RPAToolReport.exe.config
+C:\Users\chao.tan\source\repos\RPAToolReport\RPAToolReport\bin\Debug\RPAToolReport.exe
+C:\Users\chao.tan\source\repos\RPAToolReport\RPAToolReport\bin\Debug\RPAToolReport.pdb
+C:\Users\chao.tan\source\repos\RPAToolReport\RPAToolReport\obj\Debug\RPAToolReport.csprojResolveAssemblyReference.cache
+C:\Users\chao.tan\source\repos\RPAToolReport\RPAToolReport\obj\Debug\RPAToolReport.csproj.CoreCompileInputs.cache
+C:\Users\chao.tan\source\repos\RPAToolReport\RPAToolReport\obj\Debug\RPAToolReport.exe
+C:\Users\chao.tan\source\repos\RPAToolReport\RPAToolReport\obj\Debug\RPAToolReport.pdb
